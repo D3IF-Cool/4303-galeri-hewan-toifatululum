@@ -1,0 +1,4 @@
+package org.d3if0009.galerihewan
+
+class MainAdapter {
+}
